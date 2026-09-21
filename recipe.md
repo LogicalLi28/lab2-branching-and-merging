@@ -26,8 +26,8 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 - 1 cup unsalted butter, softened
 - 4 cups powdered sugar
 - 2 teaspoons vanilla extract
-- 1/2 cup unsweetened cocoa powder
-- 2 tablespoons milk
+- 2 tablespoons heavy cream
+- a pinch of salt
 
 ## Decoration
 
@@ -52,7 +52,7 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 
 8. Prepare the filling by combining the salted caramel sauce with the chopped toasted pecans.
 
-9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by the cocoa powder.
+9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by the heavy cream.
 
 10. Place the first cake layer on a serving plate and spread half of the filling over the top.
 
